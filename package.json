@@ -1,7 +1,7 @@
 {
-    "name": "enmity-devsocket-server",
+    "name": "vendetta-devsocket-server",
     "version": "1.0.0",
-    "description": "A server for a devtool for Enmity.",
+    "description": "Just a fork of https://github.com/maisymoe/enmity-devsocket-server",
     "main": "dist/index.js",
     "scripts": {
         "build": "tsc",

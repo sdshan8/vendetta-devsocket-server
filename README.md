@@ -1,3 +1,3 @@
-# enmity-devsocket-server
+# vendetta-devsocket-server
 
-A server for a devtool for Enmity. For usage instructions, see [here](https://github.com/Beefers/enmity-devsocket/blob/master/README.md).
+Just a fork of [maisymoe/enmity-devsocket-server](https://github.com/maisymoe/enmity-devsocket-server). For usage instructions, see [sdshan8/vendetta-devsocket](https://github.com/sdshan8/vendetta-devsocket/blob/master/README.md).
